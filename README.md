@@ -9,9 +9,9 @@
 ## 🎯 Objective
 This repository defines the infrastructure, content configuration, and "PointSav Protocol" pairing logic for the following sovereign asset:
 
-* **Target VM:** `vm-woodfine-proj-wiki` (e.g., `vm-woodfine-landing`)
+* **Target VM:** `vm-woodfine-projects-wiki`
 * **Base OS Image:** `mediakit-os` (Flavor: `app-knowledge`)
-* **Public URL:** `https://wwww.projects.woodfinegroup.com`
+* **Public URL:** `https://projects.woodfinegroup.com`
 
 ## 🏛 Architecture (The Supply Chain)
 This deployment sits at the end of the **Sovereign Supply Chain**:
